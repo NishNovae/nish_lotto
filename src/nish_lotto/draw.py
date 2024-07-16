@@ -1,4 +1,4 @@
-// draw.py
+# draw.py
 
 import random
 
